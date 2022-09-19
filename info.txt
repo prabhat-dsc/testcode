@@ -1,0 +1,47 @@
+
+eid=[101,102,103,104,105,106,107]
+ename=['jhon','scott','pallavi','alexa','mani','ravina','clerk']
+sal=[1100,4000,2400,900,5500,3500,6000]
+gend=['m','m','f','f','m','f','m']
+
+*********************************************************
+lst=[1,2,4.2,'ravi',[10,20,30,'ravi'],(2,3,4,'ravi',['ravi',1,2]),{2,3,4,2,4},{'k1':10,'k2':10.5,'k3':[2,3,4,'ravi'],'k4':'ravi'}]
+
+***************************************************************************************************************************************
+ॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद श्रीं ह्रीं श्रीं ॐ महालक्ष्मी नम:।
+ ॐ श्रीं ल्कीं महालक्ष्मी महालक्ष्मी एह्येहि सर्व सौभाग्यं देहि मे स्वाहा।
+ ॐ ह्रीं श्री क्रीं क्लीं श्री लक्ष्मी मम गृहे धन पूरये, धन पूरये, चिंताएं दूरये-दूरये स्वाहा:।
+
+***************************************************
+Numpy github link
+-----------
+https://github.com/sudh9931/numpy/blob/main/numpy.py
+
+!pip install cufflinks
+or 
+pip install cufflinks
+
+graph=== https://github.com/sudh9931/graph
+
+********************************************************
+API
+https://github.com/sudh9931/api/blob/main/api
+*************************************************************
+Important links
+study.dbs(bublin institute) link for statistics
+
+https://study.dbs.ie/2122/msc-data/B9DA101/u1/index.html
+https://study.dbs.ie/2122/msc-data/B9DA101/u2/index.html#
+https://study.dbs.ie/2122/msc-data/B9DA101/u3/index.html#/
+https://study.dbs.ie/2122/msc-data/B9DA101/u5/index.html#/
+https://study.dbs.ie/2122/msc-data/B9DA101/u6/index.html#/
+https://study.dbs.ie/2122/msc-data/B9DA101/u7/index.html#/
+https://study.dbs.ie/2122/msc-data/B9DA101/U8a/index.html#/
+
+********************************************************************
+
+
+
+
+
+
